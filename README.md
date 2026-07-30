@@ -14,8 +14,7 @@ cudcomf
  
 [sign ata](https://attachedsoul.atabook.org)ㅤㅤㅤ
 [rentry](https://rentry.co/celinsrentry)ㅤㅤㅤ
-[guns.lol](https://guns.lol/attachedsoull)ㅤㅤㅤ
-[straw](https://theunlovedd.straw.page)
+[guns.lol](https://guns.lol/attachedsoull)
 <br>
 
 

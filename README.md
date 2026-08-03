@@ -6,7 +6,7 @@
 cudcomf 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=theunloved&style=for-the-badge&color=63666A&label=cutiepies" />
+<img src="https://komarev.com/ghpvc/?username=theunloved&style=for-the-badge&color=9D8F65&label=cutiepies" />
 
 
 

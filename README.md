@@ -5,7 +5,7 @@
 
 cudcomf 
 <br>
-
+pub chat off, w2i <br>
 <img src="https://komarev.com/ghpvc/?username=theunloved&style=for-the-badge&color=9D8F65&label=cutiepies" />
 
 

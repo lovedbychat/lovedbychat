@@ -1,6 +1,6 @@
 <div align="center">
- <img src="https://i.postimg.cc/TYWbgpHT/IMG_8631.gif" width="250"> <br> <img src="https://i.postimg.cc/TPn9v6yX/IMG_1446.png" width="250"> <br>
-<img src="https://i.pinimg.com/originals/80/55/e8/8055e8a0dffe5f94391664276931a9ef.gif" width="250">
+ <img src="https://i.postimg.cc/QC2XhnjW/IMG_9035.png" width="250"> <br> <img src="https://i.postimg.cc/TPn9v6yX/IMG_1446.png" width="250"> <br>
+<img src="https://i.pinimg.com/originals/58/9b/3b/589b3bb4c59f031339963a227efb0f95.gif" width="250">
 
 
   
@@ -10,7 +10,7 @@
 cudcomf 
 <br>
 pub chat off, w2i <br>
-<img src="https://komarev.com/ghpvc/?username=theunloved&style=for-the-badge&color=195905&label=meows" />
+<img src="https://komarev.com/ghpvc/?username=theunloved&style=for-the-badge&color=blue&label=meows" />
 
 
 

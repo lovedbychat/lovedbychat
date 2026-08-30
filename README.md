@@ -17,11 +17,12 @@ pub chat off, w2i <br>
 <div align="center">
  
 [sign ata](https://attachedsoul.atabook.org)ㅤㅤㅤ
-[rentry](https://rentry.co/celinsrentry)ㅤㅤㅤ
-[guns.lol](https://guns.lol/attachedsoull)
+[ rentry ](https://rentry.co/celinsrentry)ㅤㅤㅤ
+[pronouns page](https://en.pronouns.page/@attachedsoull)
 <br>
 
+<div align="center">
 
- ⋆｡𖦹°‧
+ 
 
 </div>

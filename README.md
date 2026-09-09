@@ -1,6 +1,6 @@
 <div align="center">
- <img src="https://i.postimg.cc/QC2XhnjW/IMG_9035.png" width="250"> <br> <img src="https://i.postimg.cc/TPn9v6yX/IMG_1446.png" width="250"> <br>
-<img src="https://i.pinimg.com/originals/58/9b/3b/589b3bb4c59f031339963a227efb0f95.gif" width="250">
+ <img src="https://i.ibb.co/nz6gjf0/Untitled2014-20231227224704.png" width="450"> <br> <img src="https://files.catbox.moe/z9ic94.png" width="450"> <br>
+<img src="https://i.pinimg.com/originals/75/62/ab/7562ab290eedbc4d17fa1b76065bf050.gif" width="450">
 
 
   
@@ -20,7 +20,8 @@ pub chat off, w2i <br>
 [ rentry ](https://rentry.co/celinsrentry)ㅤㅤㅤ
 [pronouns page](https://en.pronouns.page/@attachedsoull)
 <br>
-
+<div align="center">
+<img src="https://i.ibb.co/MMg4fwW/Untitled2014-20231227224707.png" width="450"> <br>
 <div align="center">
 
  

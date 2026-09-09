@@ -18,7 +18,6 @@ pub chat off, w2i <br>
  
 ꣑ৎ ㅤ  [sign ata](https://attachedsoul.atabook.org)ㅤㅤ꣑ৎ    
 ꣑ৎ  ㅤ [ rentry ](https://rentry.co/celinsrentry)ㅤㅤ꣑ৎ  
-꣑ৎ  ㅤ [pronouns page](https://en.pronouns.page/@attachedsoull)ㅤ  ꣑ৎ
 <br>
 <div align="center"> 
 <img src="https://i.ibb.co/MMg4fwW/Untitled2014-20231227224707.png" width="450"> <br>
